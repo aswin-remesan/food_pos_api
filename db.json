@@ -35,5 +35,142 @@
       "image": "/img/Mains/sushi.jpg",
       "price": 34
     }
+  ],
+
+  "starters": [
+    {
+      "name": "Chicken Wings",
+      "image": "/img/Starters/chicken_wings.jpg",
+      "price": 8
+    },
+    {
+      "name": "French Fries",
+      "image": "/img/Starters/french_fries.jpg",
+      "price": 10
+    },
+    {
+      "name": "Garlic Bread",
+      "image": "/img/Starters/garlic_bread.jpg",
+      "price": 15
+    },
+    {
+      "name": "Greek Salad",
+      "image": "/img/Starters/greek_salad.jpg",
+      "price": 12
+    },
+    {
+      "name": "Nachos",
+      "image": "/img/Starters/nachos.jpg",
+      "price": 25
+    },
+    {
+      "name": "Potato Wedges",
+      "image": "/img/Starters/potato_wedges.jpg",
+      "price": 13
+    },
+    {
+      "name": "Tacos",
+      "image": "/img/Starters/tacos.jpg",
+      "price": 34
+    }
+  ],
+
+  "cocktails": [
+    {
+      "name": "Gin Rickey",
+      "image": "/img/Cocktails/gin_rickey.jpg",
+      "price": 8
+    },
+    {
+      "name": "Martini",
+      "image": "/img/Cocktails/martini.jpg",
+      "price": 10
+    },
+    {
+      "name": "Mojito",
+      "image": "/img/Cocktails/mojito.jpg",
+      "price": 15
+    },
+    {
+      "name": "Mountain Bramble",
+      "image": "/img/Cocktails/mountain_bramble.jpg",
+      "price": 12
+    },
+    {
+      "name": "Pink Moon",
+      "image": "/img/Cocktails/pink_moon.jpg",
+      "price": 25
+    },
+    {
+      "name": "Winter Paloma",
+      "image": "/img/Cocktails/winter_paloma.jpg",
+      "price": 13
+    }
+  ],
+
+  "dessert": [
+    {
+      "name": "Cake",
+      "image": "/img/Dessert/cake.jpg",
+      "price": 8
+    },
+    {
+      "name": "Donuts",
+      "image": "/img/Dessert/donuts.jpg",
+      "price": 10
+    },
+    {
+      "name": "Donuts-2",
+      "image": "/img/Dessert/donuts-2.jpg",
+      "price": 15
+    },
+    {
+      "name": "Ice Cream",
+      "image": "/img/Dessert/ice_cream.jpg",
+      "price": 12
+    },
+    {
+      "name": "Kunafa",
+      "image": "/img/Dessert/Kunafa.jpg",
+      "price": 25
+    },
+    {
+      "name": "Muffin",
+      "image": "/img/Dessert/muffin.jpg",
+      "price": 13
+    },
+    {
+      "name": "Waffle",
+      "image": "/img/Dessert/waffle.jpg",
+      "price": 34
+    }
+  ],
+
+  "snacks": [
+    {
+      "name": "Apple Pie",
+      "image": "/img/Snacks/apple_pie.jpg",
+      "price": 8
+    },
+    {
+      "name": "Cinnamon Roll",
+      "image": "/img/Snacks/cinnamon_roll.jpg",
+      "price": 10
+    },
+    {
+      "name": "Cookie",
+      "image": "/img/Snacks/cookie.jpg",
+      "price": 15
+    },
+    {
+      "name": "Croissant",
+      "image": "/img/Snacks/croissant.jpg",
+      "price": 12
+    },
+    {
+      "name": "Croissant-2",
+      "image": "/img/Snacks/croissant-2.jpg",
+      "price": 25
+    }
   ]
 }
