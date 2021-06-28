@@ -1,0 +1,39 @@
+{
+  "mains": [
+    {
+      "name": "Lasagna",
+      "image": "/img/Mains/lasagna.jpg",
+      "price": 8
+    },
+    {
+      "name": "Mac & Cheese",
+      "image": "/img/Mains/mac_cheese.jpg",
+      "price": 10
+    },
+    {
+      "name": "Macaroni",
+      "image": "/img/Mains/macaroni.jpg",
+      "price": 15
+    },
+    {
+      "name": "Noodle",
+      "image": "/img/Mains/noodle.jpg",
+      "price": 12
+    },
+    {
+      "name": "Pizza",
+      "image": "/img/Mains/pizza.jpg",
+      "price": 25
+    },
+    {
+      "name": "Rice Dish",
+      "image": "/img/Mains/rice_dish.jpg",
+      "price": 13
+    },
+    {
+      "name": "Sushi",
+      "image": "/img/Mains/sushi.jpg",
+      "price": 34
+    }
+  ]
+}
